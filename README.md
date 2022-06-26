@@ -18,8 +18,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-plain.svg"  alt="ansible" width="40" height="40"/>
   </a>
   <a href="https://python.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="python" width="40" height="40"/>
   </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
+  </a> 
   <a href="https://aws.amazon.com" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> 
   </a>
