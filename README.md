@@ -94,7 +94,7 @@ Sunday                   115 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               42 mins             █████████████████████████   99.92 % 
+JavaScript               41 mins             █████████████████████████   99.92 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
@@ -105,7 +105,7 @@ Mac                      42 mins             ███████████�
 ```
 
 
- Last Updated on 16/04/2024 01:04:30 UTC
+ Last Updated on 17/04/2024 01:05:08 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/weijing24/weijing24/main/image/sea.png" /></div>
