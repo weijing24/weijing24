@@ -94,7 +94,8 @@ Sunday                   115 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Terraform                6 mins              █████████████████████████   100.00 % 
+Terraform                3 mins              ███████████████░░░░░░░░░░   61.89 % 
+YAML                     2 mins              ██████████░░░░░░░░░░░░░░░   38.11 % 
 
 🔥 Editors: 
 Cursor                   6 mins              █████████████████████████   100.00 % 
@@ -104,7 +105,7 @@ Mac                      6 mins              ███████████�
 ```
 
 
- Last Updated on 15/12/2025 01:54:52 UTC
+ Last Updated on 16/12/2025 01:51:42 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/weijing24/weijing24/main/image/sea.png" /></div>
