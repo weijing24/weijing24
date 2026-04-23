@@ -94,17 +94,22 @@ Sunday                   65 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Terraform                2 hrs 19 mins       ████████████░░░░░░░░░░░░░   49.17 % 
+Git Config               49 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+YAML                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Unknown Editor           4 hrs 34 mins       ████████████████████████░   96.97 % 
+Cursor                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/04/2026 02:46:39 UTC
+ Last Updated on 23/04/2026 02:49:37 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/weijing24/weijing24/main/image/sea.png" /></div>
