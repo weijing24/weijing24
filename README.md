@@ -67,44 +67,8 @@
 <div align="center" ><img src="https://raw.githubusercontent.com/weijing24/weijing24/main/profile-3d-contrib/profile-season.svg" width="100%"/></div>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-🌆 Daytime                422 commits         ██████████████░░░░░░░░░░░   57.81 % 
-🌃 Evening                254 commits         █████████░░░░░░░░░░░░░░░░   34.79 % 
-🌙 Night                  23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   183 commits         ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
-Tuesday                  110 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Wednesday                118 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Thursday                 95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Friday                   101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Saturday                 58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Sunday                   65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 14/05/2026 03:37:22 UTC
+ Last Updated on 15/05/2026 03:40:34 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/weijing24/weijing24/main/image/sea.png" /></div>
