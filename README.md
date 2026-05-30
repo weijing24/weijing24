@@ -67,8 +67,50 @@
 <div align="center" ><img src="https://raw.githubusercontent.com/weijing24/weijing24/main/profile-3d-contrib/profile-season.svg" width="100%"/></div>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
- Last Updated on 29/05/2026 03:52:12 UTC
+```text
+🌞 Morning                29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+🌆 Daytime                239 commits         ████████████████░░░░░░░░░   65.30 % 
+🌃 Evening                75 commits          █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+🌙 Night                  23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   129 commits         █████████░░░░░░░░░░░░░░░░   35.25 % 
+Tuesday                  58 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Wednesday                74 commits          █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Thursday                 37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Friday                   38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Saturday                 11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Sunday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Terraform                3 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+YAML                     3 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+Bash                     3 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+JSON                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+
+🔥 Editors: 
+Claude Code              11 hrs 18 mins      █████████████████████░░░░   82.24 % 
+Cursor                   1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+VS Code                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+
+💻 Operating System: 
+Mac                      13 hrs 44 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 30/05/2026 03:37:05 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/weijing24/weijing24/main/image/sea.png" /></div>
