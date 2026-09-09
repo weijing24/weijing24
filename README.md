@@ -96,47 +96,45 @@ Sunday                   66 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Terraform                3 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   34.00 % 
-YAML                     3 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   32.64 % 
-Text                     2 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Terraform                2 hrs 48 mins       █████████████░░░░░░░░░░░░   52.27 % 
+Text                     1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   30.80 % 
+Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Bash                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 🔥 Editors: 
-Codex CLI                8 hrs 54 mins       █████████████████████░░░░   85.24 % 
-Grok Build               1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Cursor                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Codex CLI                5 hrs 7 mins        ████████████████████████░   95.72 % 
+Cursor                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 💻 Operating System: 
-Mac                      10 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      5 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 27 mins (100.0%)
+⏱ AI Coding Time: 5 hrs 21 mins (100.0%)
 
-✍️ 1,613 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,585 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 22,581,830 Input Tokens, 1,094,440 Output Tokens
+🔤 1,827,193 Input Tokens, 403,982 Output Tokens
 
-💵 $220.27 Estimated AI Cost This Week
+💵 $56.36 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 115 AI Prompts
+🧠 7 AI Sessions, 59 AI Prompts
 
-GPT                      1,755 lines         █████████████████████████   100.00 % 
+GPT                      1,659 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 323 characters per prompt
+📝 Concise Prompter — average 358 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/09/2026 03:34:26 UTC
+ Last Updated on 09/09/2026 03:39:02 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/weijing24/weijing24/main/image/sea.png" /></div>
