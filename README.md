@@ -67,7 +67,7 @@
 <div align="center" ><img src="https://raw.githubusercontent.com/weijing24/weijing24/main/profile-3d-contrib/profile-season.svg" width="100%"/></div>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-134%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-134%20hrs%2031%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -96,45 +96,42 @@ Sunday                   66 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Terraform                58 mins             █████████░░░░░░░░░░░░░░░░   34.78 % 
-Text                     56 mins             ████████░░░░░░░░░░░░░░░░░   33.09 % 
-Markdown                 29 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Bash                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Terraform                30 mins             █████████████████████░░░░   85.86 % 
+Python                   5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
 
 🔥 Editors: 
-Codex CLI                2 hrs 35 mins       ███████████████████████░░   91.88 % 
-Cursor                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Codex CLI                31 mins             ██████████████████████░░░   86.71 % 
+Cursor                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
 
 💻 Operating System: 
-Mac                      2 hrs 49 mins       █████████████████████████   100.00 % 
+Mac                      35 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 49 mins (100.0%)
+⏱ AI Coding Time: 35 mins (100.0%)
 
-✍️ 1,485 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 337 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 989,957 Input Tokens, 249,632 Output Tokens
+🔤 145,995 Input Tokens, 55,941 Output Tokens
 
-💵 $23.08 Estimated AI Cost This Week
+💵 $6.22 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 30 AI Prompts
+🧠 1 AI Sessions, 6 AI Prompts
 
-GPT                      1,496 lines         █████████████████████████   100.00 % 
+GPT                      337 lines           █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 446 characters per prompt
+📝 Concise Prompter — average 56 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/09/2026 03:36:31 UTC
+ Last Updated on 11/09/2026 03:34:51 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/weijing24/weijing24/main/image/sea.png" /></div>
