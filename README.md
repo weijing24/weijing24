@@ -96,39 +96,45 @@ Sunday                   66 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 mins              █████████████████████████   100.00 % 
+Bash                     33 mins             ████████████░░░░░░░░░░░░░   47.79 % 
+Other                    32 mins             ███████████░░░░░░░░░░░░░░   45.87 % 
+Python                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
 
 🔥 Editors: 
-Codex CLI                4 mins              █████████████████████████   100.00 % 
+Codex CLI                47 mins             █████████████████░░░░░░░░   67.15 % 
+Grok Build               12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Cursor                   10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (100.0%)
+⏱ AI Coding Time: 1 hr 10 mins (100.0%)
 
-✍️ 98 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 101 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 125,580 Input Tokens, 6,719 Output Tokens
+🔤 8,126,915 Input Tokens, 78,090 Output Tokens
 
-💵 $1.01 Estimated AI Cost This Week
+💵 $20.72 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 5 AI Sessions, 22 AI Prompts
 
-GPT                      98 lines            █████████████████████████   100.00 % 
+GPT                      101 lines           █████████████████████████   100.00 % 
+Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 34 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 326 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/09/2026 03:54:38 UTC
+ Last Updated on 15/09/2026 03:54:16 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/weijing24/weijing24/main/image/sea.png" /></div>
