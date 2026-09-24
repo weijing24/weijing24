@@ -67,26 +67,26 @@
 <div align="center" ><img src="https://raw.githubusercontent.com/weijing24/weijing24/main/profile-3d-contrib/profile-season.svg" width="100%"/></div>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-137%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-137%20hrs%2059%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-🌆 Daytime                425 commits         ██████████████░░░░░░░░░░░   57.28 % 
-🌃 Evening                256 commits         █████████░░░░░░░░░░░░░░░░   34.50 % 
-🌙 Night                  29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+🌞 Morning                32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+🌆 Daytime                430 commits         ██████████████░░░░░░░░░░░   57.56 % 
+🌃 Evening                256 commits         █████████░░░░░░░░░░░░░░░░   34.27 % 
+🌙 Night                  29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   177 commits         ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
-Tuesday                  109 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Wednesday                128 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Thursday                 97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Friday                   108 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Saturday                 57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-Sunday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Monday                   177 commits         ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+Tuesday                  109 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Wednesday                133 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+Thursday                 97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Friday                   108 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Saturday                 57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Sunday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
 ```
 
 
@@ -96,47 +96,46 @@ Sunday                   66 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 3 mins        ████████████████░░░░░░░░░   64.77 % 
-Markdown                 58 mins             ████████░░░░░░░░░░░░░░░░░   30.90 % 
-Docker                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Terraform                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Other                    1 hr 27 mins        ██████████████████████░░░   87.22 % 
+Docker                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Terraform                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 🔥 Editors: 
-Codex CLI                1 hr 55 mins        ███████████████░░░░░░░░░░   60.65 % 
-Cursor                   42 mins             ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-Grok Build               32 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Codex CLI                1 hr 32 mins        ███████████████████████░░   91.97 % 
+Grok Build               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Cursor                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 💻 Operating System: 
-Mac                      3 hrs 10 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 40 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 3 mins (96.06%)
+⏱ AI Coding Time: 1 hr 40 mins (100.0%)
 
-✍️ 71 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 11,870,648 Input Tokens, 166,422 Output Tokens
+🔤 1,245,984 Input Tokens, 65,076 Output Tokens
 
-💵 $61.45 Estimated AI Cost This Week
+💵 $30.75 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 72 AI Prompts
+🧠 12 AI Sessions, 44 AI Prompts
 
-GPT                      76 lines            █████████████████████████   100.00 % 
-Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      2 lines             █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,152 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 1,785 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 19.15% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/09/2026 03:49:23 UTC
+ Last Updated on 24/09/2026 03:41:06 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/weijing24/weijing24/main/image/sea.png" /></div>
