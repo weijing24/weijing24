@@ -96,41 +96,39 @@ Sunday                   66 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    11 mins             ████████░░░░░░░░░░░░░░░░░   33.63 % 
-YAML                     11 mins             ████████░░░░░░░░░░░░░░░░░   33.58 % 
-Docker                   10 mins             ████████░░░░░░░░░░░░░░░░░   32.79 % 
+Other                    10 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex CLI                33 mins             █████████████████████████   100.00 % 
+Codex CLI                10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      33 mins             █████████████████████████   100.00 % 
+Mac                      10 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 mins (100.0%)
+⏱ AI Coding Time: 10 mins (100.0%)
 
-✍️ 5 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 644,725 Input Tokens, 34,383 Output Tokens
+🔤 232,697 Input Tokens, 9,386 Output Tokens
 
-💵 $8.94 Estimated AI Cost This Week
+💵 $0.07 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 7 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
-GPT                      8 lines             █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 40 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 18 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/09/2026 04:47:41 UTC
+ Last Updated on 30/09/2026 04:33:33 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/weijing24/weijing24/main/image/sea.png" /></div>
