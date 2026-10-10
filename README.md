@@ -67,26 +67,26 @@
 <div align="center" ><img src="https://raw.githubusercontent.com/weijing24/weijing24/main/profile-3d-contrib/profile-season.svg" width="100%"/></div>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-138%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-138%20hrs%2029%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-🌆 Daytime                434 commits         ██████████████░░░░░░░░░░░   57.56 % 
-🌃 Evening                257 commits         █████████░░░░░░░░░░░░░░░░   34.08 % 
-🌙 Night                  29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+🌞 Morning                34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+🌆 Daytime                437 commits         ██████████████░░░░░░░░░░░   57.73 % 
+🌃 Evening                257 commits         ████████░░░░░░░░░░░░░░░░░   33.95 % 
+🌙 Night                  29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   177 commits         ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-Tuesday                  109 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Wednesday                134 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-Thursday                 102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Friday                   108 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Saturday                 58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Sunday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Monday                   177 commits         ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+Tuesday                  109 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Wednesday                134 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Thursday                 102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Friday                   111 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Saturday                 58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Sunday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
 ```
 
 
@@ -96,41 +96,41 @@ Sunday                   66 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 hrs 14 mins       █████████████████████████   100.00 % 
+Other                    6 hrs 5 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Grok Build               6 hrs 40 mins       ███████████████████████░░   92.30 % 
-Bot                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-Cursor                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Grok Build               5 hrs 32 mins       ███████████████████████░░   90.96 % 
+Bot                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Cursor                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 💻 Operating System: 
-Mac                      7 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 6 mins (98.25%)
+⏱ AI Coding Time: 5 hrs 57 mins (97.92%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 127,274,857 Input Tokens, 760,369 Output Tokens
+🔤 116,295,882 Input Tokens, 675,560 Output Tokens
 
-💵 $259.11 Estimated AI Cost This Week
+💵 $236.65 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 120 AI Prompts
+🧠 24 AI Sessions, 98 AI Prompts
 
 Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 72 characters per prompt
+📝 Concise Prompter — average 65 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/10/2026 05:06:36 UTC
+ Last Updated on 10/10/2026 04:52:31 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/weijing24/weijing24/main/image/sea.png" /></div>
