@@ -96,41 +96,41 @@ Sunday                   66 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    6 hrs 5 mins        █████████████████████████   100.00 % 
+Other                    4 hrs 29 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Grok Build               5 hrs 32 mins       ███████████████████████░░   90.96 % 
-Bot                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-Cursor                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Grok Build               4 hrs 2 mins        ██████████████████████░░░   89.91 % 
+Bot                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Cursor                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 💻 Operating System: 
-Mac                      6 hrs 5 mins        █████████████████████████   100.00 % 
+Mac                      4 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 57 mins (97.92%)
+⏱ AI Coding Time: 4 hrs 22 mins (97.18%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 116,295,882 Input Tokens, 675,560 Output Tokens
+🔤 97,320,712 Input Tokens, 546,909 Output Tokens
 
-💵 $236.65 Estimated AI Cost This Week
+💵 $197.92 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 98 AI Prompts
+🧠 19 AI Sessions, 76 AI Prompts
 
 Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 65 characters per prompt
+📝 Concise Prompter — average 66 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/10/2026 04:52:31 UTC
+ Last Updated on 11/10/2026 04:38:23 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/weijing24/weijing24/main/image/sea.png" /></div>
