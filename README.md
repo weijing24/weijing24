@@ -96,41 +96,41 @@ Sunday                   66 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 29 mins       █████████████████████████   100.00 % 
+Other                    2 hrs 29 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Grok Build               4 hrs 2 mins        ██████████████████████░░░   89.91 % 
-Bot                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Cursor                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Grok Build               2 hrs 2 mins        ████████████████████░░░░░   81.82 % 
+Bot                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Cursor                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
 
 💻 Operating System: 
-Mac                      4 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 22 mins (97.18%)
+⏱ AI Coding Time: 2 hrs 22 mins (94.91%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 97,320,712 Input Tokens, 546,909 Output Tokens
+🔤 49,585,290 Input Tokens, 345,229 Output Tokens
 
-💵 $197.92 Estimated AI Cost This Week
+💵 $101.24 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 76 AI Prompts
+🧠 16 AI Sessions, 45 AI Prompts
 
 Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 66 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 56 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/10/2026 04:38:23 UTC
+ Last Updated on 12/10/2026 04:54:01 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/weijing24/weijing24/main/image/sea.png" /></div>
