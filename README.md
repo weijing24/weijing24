@@ -96,41 +96,41 @@ Sunday                   66 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 29 mins       █████████████████████████   100.00 % 
+Other                    1 hr 34 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Grok Build               2 hrs 2 mins        ████████████████████░░░░░   81.82 % 
-Bot                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Cursor                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Grok Build               1 hr 24 mins        ██████████████████████░░░   88.83 % 
+Cursor                   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Bot                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Mac                      2 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 22 mins (94.91%)
+⏱ AI Coding Time: 1 hr 26 mins (91.95%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 49,585,290 Input Tokens, 345,229 Output Tokens
+🔤 42,121,361 Input Tokens, 296,684 Output Tokens
 
-💵 $101.24 Estimated AI Cost This Week
+💵 $86.02 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 45 AI Prompts
+🧠 11 AI Sessions, 34 AI Prompts
 
 Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 56 characters per prompt
+📝 Concise Prompter — average 65 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/10/2026 04:54:01 UTC
+ Last Updated on 13/10/2026 05:56:09 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/weijing24/weijing24/main/image/sea.png" /></div>
