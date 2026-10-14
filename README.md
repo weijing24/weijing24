@@ -96,41 +96,40 @@ Sunday                   66 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 34 mins        █████████████████████████   100.00 % 
+Other                    1 hr 30 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Grok Build               1 hr 24 mins        ██████████████████████░░░   88.83 % 
-Cursor                   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Bot                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Grok Build               1 hr 19 mins        ██████████████████████░░░   88.37 % 
+Cursor                   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
 
 💻 Operating System: 
-Mac                      1 hr 34 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 30 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 26 mins (91.95%)
+⏱ AI Coding Time: 1 hr 22 mins (91.56%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 42,121,361 Input Tokens, 296,684 Output Tokens
+🔤 40,922,490 Input Tokens, 278,966 Output Tokens
 
-💵 $86.02 Estimated AI Cost This Week
+💵 $83.52 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 34 AI Prompts
+🧠 8 AI Sessions, 32 AI Prompts
 
 Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 65 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 68 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/10/2026 05:56:09 UTC
+ Last Updated on 14/10/2026 03:59:07 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/weijing24/weijing24/main/image/sea.png" /></div>
