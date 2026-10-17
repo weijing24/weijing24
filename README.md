@@ -67,7 +67,7 @@
 <div align="center" ><img src="https://raw.githubusercontent.com/weijing24/weijing24/main/profile-3d-contrib/profile-season.svg" width="100%"/></div>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-138%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-139%20hrs%2030%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -96,34 +96,34 @@ Sunday                   66 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    6 hrs 17 mins       █████████████░░░░░░░░░░░░   50.10 % 
-Python                   2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-Markdown                 2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-JavaScript               1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Other                    4 hrs 35 mins       ███████████░░░░░░░░░░░░░░   42.32 % 
+Python                   2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+Markdown                 2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+JavaScript               1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-Codex CLI                9 hrs 56 mins       ████████████████████░░░░░   79.18 % 
-Grok Build               2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-Codex Vscode             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-Cursor                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Codex CLI                9 hrs 40 mins       ██████████████████████░░░   89.13 % 
+Grok Build               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Codex Vscode             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Cursor                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 💻 Operating System: 
-Mac                      12 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 32 mins (100.0%)
+⏱ AI Coding Time: 10 hrs 51 mins (100.0%)
 
 ✍️ 308 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 23,621,931 Input Tokens, 589,531 Output Tokens
+🔤 7,267,936 Input Tokens, 455,088 Output Tokens
 
-💵 $89.59 Estimated AI Cost This Week
+💵 $55.91 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 159 AI Prompts
+🧠 21 AI Sessions, 133 AI Prompts
 
 GPT                      308 lines           █████████████████████████   100.00 % 
 Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -131,13 +131,13 @@ Codex-Cli                0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,044 characters per prompt
+📄 Detailed Prompter — average 1,232 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/10/2026 03:36:49 UTC
+ Last Updated on 17/10/2026 03:26:47 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/weijing24/weijing24/main/image/sea.png" /></div>
