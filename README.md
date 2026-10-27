@@ -96,42 +96,43 @@ Sunday                   66 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 50 mins       █████████████████████████   100.00 % 
+Other                    43 mins             ██████████████████████░░░   88.73 % 
+Docker                   5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 26 mins       ██████████████████████░░░   86.09 % 
-Grok Bot                 23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Cursor                   46 mins             ████████████████████████░   94.46 % 
+Grok Bot                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Mac                      2 hrs 50 mins       █████████████████████████   100.00 % 
+Mac                      49 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 50 mins (100.0%)
+⏱ AI Coding Time: 49 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 14,525,909 Input Tokens, 301,125 Output Tokens
+🔤 7,216,216 Input Tokens, 181,397 Output Tokens
 
-💵 $32.91 Estimated AI Cost This Week
+💵 $18.17 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 35 AI Prompts
+🧠 16 AI Sessions, 13 AI Prompts
 
 Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 366 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 2,493 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/10/2026 03:45:00 UTC
+ Last Updated on 27/10/2026 04:08:21 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/weijing24/weijing24/main/image/sea.png" /></div>
