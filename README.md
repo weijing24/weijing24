@@ -67,25 +67,25 @@
 <div align="center" ><img src="https://raw.githubusercontent.com/weijing24/weijing24/main/profile-3d-contrib/profile-season.svg" width="100%"/></div>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-149%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-150%20hrs%2045%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-🌆 Daytime                511 commits         ███████████████░░░░░░░░░░   59.42 % 
-🌃 Evening                267 commits         ████████░░░░░░░░░░░░░░░░░   31.05 % 
-🌙 Night                  37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+🌆 Daytime                511 commits         ███████████████░░░░░░░░░░   59.35 % 
+🌃 Evening                267 commits         ████████░░░░░░░░░░░░░░░░░   31.01 % 
+🌙 Night                  38 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   178 commits         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-Tuesday                  113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Wednesday                155 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-Thursday                 111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Friday                   114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Saturday                 123 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Monday                   178 commits         █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+Tuesday                  113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Wednesday                155 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Thursday                 111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Friday                   115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Saturday                 123 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 Sunday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 ```
 
@@ -96,45 +96,44 @@ Sunday                   66 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 50 mins       █████████████░░░░░░░░░░░░   52.35 % 
-Python                   2 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   30.05 % 
-Terraform                1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Docker                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Other                    2 hrs 12 mins       ████████████░░░░░░░░░░░░░   48.81 % 
+Python                   2 hrs 12 mins       ████████████░░░░░░░░░░░░░   48.72 % 
+Docker                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 🔥 Editors: 
-Cursor                   7 hrs 4 mins        ████████████████████████░   96.54 % 
-Grok Bot                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Cursor                   4 hrs 19 mins       ████████████████████████░   95.55 % 
+Grok Bot                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      7 hrs 19 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 19 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 31 mins (100.0%)
 
-✍️ 237 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 227 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 21,199,070 Input Tokens, 695,386 Output Tokens
+🔤 14,302,212 Input Tokens, 462,871 Output Tokens
 
-💵 $65.13 Estimated AI Cost This Week
+💵 $42.44 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 92 AI Prompts
+🧠 20 AI Sessions, 49 AI Prompts
 
-GPT                      255 lines           █████████████████████████   100.00 % 
+GPT                      245 lines           █████████████████████████   100.00 % 
 Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 556 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📄 Detailed Prompter — average 714 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/10/2026 04:50:19 UTC
+ Last Updated on 30/10/2026 04:50:33 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/weijing24/weijing24/main/image/sea.png" /></div>
